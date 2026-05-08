@@ -1,4 +1,4 @@
-#my-new-project
+#odling
 
 Building AI course project
 ##Summary
