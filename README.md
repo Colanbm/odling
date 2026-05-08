@@ -1,6 +1,6 @@
-# odling
-Building AI course project
 ##Summary
+Building AI course project
+
 Mitt projekt handlar om att odla näringsrika växter som är bra för mig.
 Hitta nya och bra växter som jag kan använda i hudvård, som livsmedel.
 Önskan om att träffa eller få kontakt med andra som har liknande intresse.
