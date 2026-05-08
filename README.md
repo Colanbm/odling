@@ -1,5 +1,5 @@
 # odling
-Final project for the building AI course
+Building AI course project
 ##Summary
 Mitt projekt handlar om att odla näringsrika växter som är bra för mig.
 Hitta nya och bra växter som jag kan använda i hudvård, som livsmedel.
